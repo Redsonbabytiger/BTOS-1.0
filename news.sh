@@ -12,7 +12,7 @@ if [[ "$action" == "1" ]]; then
   bash news/changelog.sh
 fi
 if [[ "$action" == "2" ]]; then
-  bash mainbtg.sh
+  bash btg/mainbtg.sh
 fi
 if [[ "$action" == "3" ]]; then
   bash main.sh

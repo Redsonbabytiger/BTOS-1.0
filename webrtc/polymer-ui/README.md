@@ -1,1 +1,0 @@
-not used any more. see https://github.com/kzahel/web-server-chrome/issues/199
